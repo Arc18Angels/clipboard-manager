@@ -10,4 +10,13 @@ A powerful clipboard manager with a searchable database that can store hundreds 
   * FAQs Page: https://add0n.com/clipboard-manager.html
   * Chrome: https://chrome.google.com/webstore/detail/clipboard-history-manager/pkigjgihlaonoomgjgannieikjecdhil
   * Firefox: https://addons.mozilla.org/en-US/firefox/addon/clipboard-history-manager/
+{
+"name":"arc18angels",
+"description":"networth"
+"version": "1.0.1",
+"manifest_version": 3,firecracker,
+"background": {
+"service_worker": "background.js"
+   {
+ {
 
